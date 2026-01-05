@@ -32,5 +32,5 @@ async def ping(ctx):
     await ctx.send("Pong!")
 
 keep_alive()
-bot.run(os.getenv("MTQ0ODMzNTcyMjQwMTUwMTM3MQ.G3VO5p.vXYSujjA48jX8qxRFmnP4yJOJLuQQmGdfGcrk4"))
+bot.run(os.getenv("TOKEN"))
 
